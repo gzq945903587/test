@@ -125,11 +125,11 @@
 			  <div class="wrap-about">
 				<div class="w-content">
 				  <p class="head-about">
-					Design is the method of putting form and content together. Design, just as art, has multiple definitions there is no single definition. Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated.
+					PHP是一种易于学习和使用的服务器端脚本语言。只需要很少的编程知识你就能使用PHP建立一个真正交互的WEB站点。 PHP是能让你生成动态网页的工具之一。PHP网页文件被当作一般HTML网页文件来处理并且在编辑时你可以用编辑HTML的常规方法编写PHP。
 				  </p>
 				  
 				  <h5 class="name">
-					M. Reza
+					高智强
 				  </h5>
 				  <img alt="signature" src="images/signature.png">
 				</div>
@@ -142,39 +142,39 @@
 				  <div class="wrap-about">
 					<table class="w-content">
 					  <tr>
-						<td class="title">Name </td>
+						<td class="title">姓名 </td>
 						<td class="break">:</td>
-						<td> M. Reza</td>
+						<td> 高智强</td>
 					  </tr>
 					  <tr>
-						<td class="title">Phone </td>
+						<td class="title">手机 </td>
 						<td class="break">:</td>
-						<td> +62 8678 999 012</td>
+						<td> 15157105163</td>
 					  </tr>
 					  <tr>
 						<td class="title">Email </td>
 						<td class="break">:</td>
-						<td> bdgpixel@gmail.com</td>
+						<td> 945903587@qq.com</td>
 					  </tr>
 					  <tr>
-						<td class="title">Address </td>
+						<td class="title">现居 </td>
 						<td class="break">:</td>
-						<td> Cipamokolan street 102 , Bandung, Indonesia</td>
+						<td> 杭州市江干区范家3号76号</td>
 					  </tr>
 					  <tr>
-						<td class="title">Skype </td>
+						<td class="title">年龄 </td>
 						<td class="break">:</td>
-						<td> bdgpixel</td>
+						<td> 26岁</td>
 					  </tr>
 					  <tr>
-						<td class="title">Dribbble </td>
+						<td class="title">户籍 </td>
 						<td class="break">:</td>
-						<td> Muh-Reza</td>
+						<td> 湖北黄冈</td>
 					  </tr>
 					  <tr>
-						<td class="title">Behance</td>
+						<td class="title">职业</td>
 						<td class="break">:</td>
-						<td> m-reza</td>
+						<td> PHP开发工程师</td>
 					  </tr>
 					</table>
 				  </div>
@@ -194,10 +194,10 @@
 		<div class="row">
 		  <div class="col-md-3">
 			<h3 class="title-small">
-			  <span>Work</span>
+			  <span>工作经历</span>
 			</h3>
 			<p class="content-detail">
-			  Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. <br><br>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros.
+			  2014年，毕业季来临，与众多选择Java的同窗不同，我选择了专注web领域php;实习于一家网络公司<br><br>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros.
 			</p>
 		  </div>
 		  <div class="col-md-9 content-right">
@@ -282,10 +282,10 @@
 		<div class="row">
 		  <div class="col-md-3">
 			<h3 class="title-small">
-			  <span>Services</span>
+			  <span>项目</span>
 			</h3>
 			<p class="content-detail">
-			  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+			  从业3年以来，接触项目众多；有大有小各行各业，
 			</p>
 		  </div>
 		  <div class="col-md-9 content-right">
@@ -297,10 +297,10 @@
 					  c
 					</h3>
 					<p class="head-sm">
-					  MARKETING
+					  阿里巴巴
 					</p>
 					<p class="text-grey">
-					  Typi non habent claritatem insitam est usus legentis in iis qui facit eorum claritatem. 
+					  这是一个b2b电子商城平台，主要服务于服装行业。独立完整核心模块的设计、开发。一月时间上线。
 					</p>
 				  </div>
 				</li>
@@ -311,10 +311,10 @@
 					  b
 					</h3>
 					<p class="head-sm">
-					  WEB DESIGN
+					  百度
 					</p>
 					<p class="text-grey">
-					  Typi non habent claritatem insitam est usus legentis in iis qui facit eorum claritatem. 
+					  国内最大的搜索引擎，引领团队攻克各种技术难关。
 					</p>
 				  </div>
 				</li>
@@ -325,10 +325,10 @@
 					  d
 					</h3>
 					<p class="head-sm">
-					  UI
+					  facebook
 					</p>
 					<p class="text-grey">
-					  Typi non habent claritatem insitam est usus legentis in iis qui facit eorum claritatem. 
+					  世界最大的社交网站，负责项目设计、开发、重构。
 					</p>
 				  </div>
 				</li>
@@ -341,10 +341,10 @@
 					  f
 					</p>
 					<p class="head-sm">
-					  DIRECTOR
+					  github
 					</p>
 					<p class="text-grey">
-					  Typi non habent claritatem insitam est usus legentis in iis qui facit eorum claritatem. 
+					  一个面向开源及私有软件项目的托管平台，负责各种。。。。实在编不下去了
 					</p>
 				  </div>
 				</li>
@@ -511,10 +511,10 @@
 		<div class="row">
 		  <div class="col-md-3">
 			<h3 class="title-small">
-			  <span>Skills</span>
+			  <span>技能</span>
 			</h3>
 			<p class="content-detail">
-			  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+			  什么c、c++、c#、java、Python、VB、PHP等等的玩的不要了
 			</p>
 		  </div>
 		  <div class="col-md-9 content-right">
@@ -574,10 +574,10 @@
 		<div class="row">
 		  <div class="col-md-3">
 			<h3 class="title-small">
-			  <span>Education</span>
+			  <span>教育</span>
 			</h3>
 			<p class="content-detail">
-			  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+			  麻省理工学院博士学位，麻省理工学院博士学位麻省理工学院博士学位麻省理工学院博士学位
 			</p>
 		  </div>
 		  <div class="col-md-9 content-right">
@@ -591,7 +591,7 @@
 						  2002 - 2005
 						</h2>
 						<p class="job">
-						  Information System
+						 剑桥大学
 						</p>
 						<p class="company">
 						  Telkom University
@@ -615,7 +615,7 @@
 						  2005 - 2007
 						</h2>
 						<p class="job">
-						  DKV
+						  	斯坦福大学
 						</p>
 						<p class="company">
 						  UNIKOM
@@ -640,7 +640,7 @@
 						  2007 - 2009
 						</h2>
 						<p class="job">
-						  Magister DKV 
+						 麻省理工学院
 						</p>
 						<p class="company">
 						  ITB
@@ -664,7 +664,7 @@
 						  2009 - 2010
 						</h2>
 						<p class="job">
-						  Typhography Magister
+						   牛津大学
 						</p>
 						<p class="company">
 						  Florida University
@@ -865,25 +865,25 @@
 		<div class="row">
 		  <div class="col-md-3">
 			<h3 class="title-small">
-			  <span>Contact</span>
+			  <span>联系</span>
 			</h3>
 			<p class="content-detail">
-			  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+			  时间宝贵，想联系我的请，邮箱预约。虽然不会去看
 			</p>
 
 		  </div>
 		  <div class="col-md-9 content-right">
 			<form>
 			  <div class="group">
-				<input required="" type="text"><span class="highlight"></span><span class="bar"></span><label>Name</label>
+				<input required="" type="text"><span class="highlight"></span><span class="bar"></span><label>公司</label>
 			  </div>
 			  <div class="group">
 				<input required="" type="email"><span class="highlight"></span><span class="bar"></span><label>Email</label>
 			  </div>
 			  <div class="group">
-				<textarea required=""></textarea><span class="highlight"></span><span class="bar"></span><label>Message</label>
+				<textarea required=""></textarea><span class="highlight"></span><span class="bar"></span><label>留言</label>
 			  </div>
-			  <input id="sendMessage" name="sendMessage" type="submit" value="Send Message">
+			  <input id="sendMessage" name="sendMessage" type="submit" value="提交">
 			</form>
 		  </div>
 		</div>
