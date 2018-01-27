@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Bodo</title>
-<meta content="IE=edge" http-equiv="X-UA-Compatible">
-<meta content="width=device-width, initial-scale=1" name="viewport">
-<meta content="Bodo - Simple One Page Personal" name="description">
-<meta content="BdgPixel" name="author">
-<!--Fav-->
-<link href="images/favicon.ico" rel="shortcut icon">
-
-<!--styles-->
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/owl.carousel.css" rel="stylesheet">
-<link href="css/owl.theme.css" rel="stylesheet">
-<link href="css/magnific-popup.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
 
 <!--fonts google-->
 <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
@@ -936,3 +917,4 @@
 <script src="js/main.js" type="text/javascript"></script>
 </body>
 </html>
+
